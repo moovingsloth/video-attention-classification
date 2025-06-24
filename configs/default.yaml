@@ -1,0 +1,15 @@
+# Video Attention Classification Configuration
+
+# Data Configuration
+data:
+  dataset: "daisee"
+  batch_size: 16
+
+# Model Configuration
+model:
+  type: "cnn_lstm"
+
+# Training Configuration
+training:
+  epochs: 50
+  learning_rate: 0.001

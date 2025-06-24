@@ -1,0 +1,13 @@
+# Deep Learning Framework
+torch
+torchvision
+
+# Computer Vision
+opencv-python
+
+# Data Processing
+numpy
+pandas
+
+# Configuration
+PyYAML
